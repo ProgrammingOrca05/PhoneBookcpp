@@ -1,7 +1,7 @@
-### Contact Book — C++ Data Structures Project
+# Contact Book — C++ Data Structures Project
 A console-based contact management system written in C++ that utilizes linked lists, vectors, and basic sorting/searching algorithms. This project was created as part of a Data Structures course assignment and demonstrates fundamental concepts like linked list manipulation, selection sort, binary search, and basic input validation.
 ---
-### Features
+# Features
 --Add, edit, delete, and search for contacts
 
 --Store multiple phone numbers per contact
@@ -18,7 +18,7 @@ A console-based contact management system written in C++ that utilizes linked li
 
 --View all stored contacts
 ---
-### Data Structures Used
+# Data Structures Used
 --Linked List: To store and manage contacts efficiently under each alphabet letter
 
 --Vector<string>: To keep a sorted list of names for binary search
